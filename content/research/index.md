@@ -14,6 +14,8 @@ disableAnchoredHeadings: false
 
 ## Older Research (In Spanish)
 
+<div lang="es">
+
 ### Articles
 
 1. [Determinantes y perfiles de la participación laboral en Colombia en el periodo 2002-2013](https://revistas.urosario.edu.co/index.php/economia/article/view/4581) (with Nancy Daza Báez), Revista de Economía del Rosario, 2015, 18(1), pp. 5-59.
@@ -29,3 +31,5 @@ disableAnchoredHeadings: false
 1. Una sencilla visión de la convergencia económica en los departamentos de Colombia: 1975-2005. [Archivos de Economía \# 384](https://colaboracion.dnp.gov.co/CDT/Estudios%20Econmicos/384.pdf)
 
 2. Una mirada a la economía informal (with E. Céspedes, G. Hernández, G. Piraquive and J. Ramos). [Archivos de Economía \# 383](https://colaboracion.dnp.gov.co/CDT/Estudios%20Econmicos/383.pdf)
+
+</div>

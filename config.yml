@@ -37,6 +37,7 @@ menu:
 params:
     description: "This website hosts Néstor González-Quintero's research papers, course materials, curriculum vitae, and contact information."
     author: Néstor González-Quintero
+    keywords: ["macroeconomics", "monetary policy", "international macroeconomics", "development economics", "University of Nottingham", "economist", "unconventional monetary policy", "monetary union"]
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light

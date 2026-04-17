@@ -23,8 +23,8 @@ disableAnchoredHeadings: false
 
     - [Syllabus](Prog_Econometria_nivel_PUJ.pdf)
     - Sample materials:
-      - [Basics of inference using R](01_Inferencia_Pt_1.ipynb) (Jupyter Notebook - In Spanish)
-      - [Dealing with non-linearities in the linear regression model using R](4_4_Modelo_regresion_lineal_multiple_IV.ipynb) (Jupyter Notebook - In Spanish)
+      - <span lang="es">[Basics of inference using R](01_Inferencia_Pt_1.ipynb)</span> (Jupyter Notebook - In Spanish)
+      - <span lang="es">[Dealing with non-linearities in the linear regression model using R](4_4_Modelo_regresion_lineal_multiple_IV.ipynb)</span> (Jupyter Notebook - In Spanish)
 
 
 ## Undergraduate Modules
