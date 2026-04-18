@@ -1,0 +1,18 @@
+title: Néstor González-Quintero
+#description: "Néstor González-Quintero's personal website"
+baseurl: ""
+url: "https://NesGQ.github.io"
+#email: Nestor.GonzalezQuintero1@nottingham.ac.uk
+github_username: NesGQ
+linkedin_username: NestorGQ
+twitter_username: NesGQ
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+

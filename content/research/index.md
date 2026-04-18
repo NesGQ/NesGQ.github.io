@@ -11,6 +11,10 @@ disableAnchoredHeadings: false
 
 2. [The stabilisation role of unconventional monetary policy in the periphery of a monetary union: a quantitative assessment](NGQ_stabilisationUMP_Periphery_MU.pdf) [[Code](Code_stabMU.zip)]
 
+## In Progress
+
+1. Financial Structure, Asset Prices, and the Competitiveness of Financial Centres: A Unified Macro-Financial Framework (with Eddie Gerba and Margarita Rubio)
+
 
 ## Older Research (In Spanish)
 
