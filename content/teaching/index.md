@@ -10,7 +10,7 @@ disableAnchoredHeadings: false
 
 ### University of Nottingham
 
-- *Economic cycles, frictions and policy* (ECON4018): Core macroeconomics module for the MSc in Financial Economics and the MSc in Economic Development and Policy Analysis (2023-2024).
+- *Economic cycles, frictions and policy* (ECON4018): Core macroeconomics module for the MSc in Financial Economics and the MSc in Economic Development and Policy Analysis (2023-2025).
 
     - [Syllabus](ECON4018_Syllabus.pdf)
     - Sample materials:
@@ -31,7 +31,7 @@ disableAnchoredHeadings: false
 
 ### University of Nottingham
 
-- *Economic Policy Analysis I* (ECON3027- with L. Wei): Year 3 module for the BSc in Economics (2023-2024).
+- *Economic Policy Analysis I* (ECON3027- with L. Wei): Year 3 module for the BSc in Economics (2023-2025).
 
 
 ### Universidad del Rosario (2009-2012)
@@ -45,7 +45,9 @@ disableAnchoredHeadings: false
 
 ### University of Nottingham
 
-- *Advanced Methods in Macroeconomics* (ECON4003): Introductory module on computational methods for macroeconomics using Matlab and Dynare for the MSc in Economics (2024).
+- *Financial Economics* (ECON2012): Year 2 module for the BSc in Economics (2026).
+
+- *Advanced Methods in Macroeconomics* (ECON4003): Introductory module on computational methods for macroeconomics using Matlab and Dynare for the MSc in Economics (2025-2026).
   
 - *Macroeconomic Theory* (ECON4016): Core macroeconomics module for the MSc in Economics (2023).
 
