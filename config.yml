@@ -65,7 +65,7 @@ params:
           subtitle: "I am currently a Teaching Associate in the School of Economics at the University of Nottingham, UK. My research interests lie at the intersection of macroeconomic policy analysis, international macroeconomics and development macroeconomics."
           imageUrl: "picture_nesgq.jpeg"
           imageWidth: 160
-          imageHeight: 190
+          imageHeight: 160
           buttons:
             - name: Research
               url: research/
