@@ -7,9 +7,9 @@ disableAnchoredHeadings: false
 
 ## Working Papers
 
-1. [The uncertainty channel of unconventional monetary policy](NGQ_UncertaintyChannelUMP.pdf)
-
-2. [The stabilisation role of unconventional monetary policy in the periphery of a monetary union: a quantitative assessment](NGQ_stabilisationUMP_Periphery_MU.pdf) [[Code](Code_stabMU.zip)]
+1. [The stabilisation role of unconventional monetary policy in the periphery of a monetary union: a quantitative assessment](NGQ_UMP_MU.pdf) [[Code](Code_stabMU.zip)]
+2. [The uncertainty channel of unconventional monetary policy](NGQ_UMP_Uncertainty.pdf)
+3. [An Empirical Approach to the Distributional Impact of Monetary Policy in Highly Unequal Emerging Economies: The Case of Colombia](NGQ_MP_Ineq_COL.pdf)
 
 ## In Progress
 
